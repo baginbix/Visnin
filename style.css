@@ -1,0 +1,11 @@
+p.text{
+    color:hotpink;
+    font-size : 200%;
+    background-color: black;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: yellow;
+}
